@@ -1,5 +1,5 @@
 <template>
- 
+ <div>Hi Mani</div>
 </template>
 
 <script setup>
